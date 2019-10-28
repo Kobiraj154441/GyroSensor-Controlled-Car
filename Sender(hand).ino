@@ -1,5 +1,5 @@
 /*NRF MODULE SINGLE STRUCT CODE 
- SUPTO,MCE Arduino Wireless Communication 
+ MAHEDEE,CSE Arduino Wireless Communication 
 TRANSMITTER SETUP 
 */      
               
