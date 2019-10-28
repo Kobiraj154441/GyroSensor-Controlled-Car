@@ -1,4 +1,4 @@
-Very Easy and simple project. where the client should wear a gloves attached with an Arduino and the Car would have another Arduino. The remote connection would be established by RF module. Gyrosensor will give the coordinate and its value will decide the robots movement
+Very easy and simple arduino project. where the client should wear a gloves attached with an Arduino and the Car would have another Arduino. The remote connection would be established by RF module. Gyrosensor will give the coordinate and its value will decide the robots movement
 
 Requirements: 
 1. Arduino Uno (2 set)
